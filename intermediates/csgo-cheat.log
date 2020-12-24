@@ -1,0 +1,39 @@
+﻿  aimbot.cpp
+  trigger_simple.cpp
+  backtrack.cpp
+  damage_indicator.cpp
+  logs.cpp
+  events.cpp
+  hitmarker.cpp
+  misc.cpp
+  prediction.cpp
+  movement.cpp
+  nade_pred.cpp
+  glovechanger.cpp
+  knifehook.cpp
+  parser.cpp
+  skinchanger.cpp
+  nightmode.cpp
+  sound.cpp
+  visuals.cpp
+  hooks.cpp
+  config.cpp
+  Generating Code...
+  Compiling...
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  menu.cpp
+  interfaces.cpp
+  math.cpp
+  md5.cpp
+  netvar_manager.cpp
+  render.cpp
+  utilities.cpp
+  hook.cpp
+  main.cpp
+  vector3d.cpp
+  view_matrix.cpp
+  Generating Code...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  csgo-cheat.vcxproj -> C:\Users\123\Desktop\aristois-pasted-by-choZen-master\.\output\debug\cheat.dll
