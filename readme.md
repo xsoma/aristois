@@ -1,7 +1,7 @@
 
 
-## lumihook aka gladiatorcheatz fix (kinda p cheat) 
-> internal rage and legit cheat for cs:go
+## aristois (pasted by choZen fixed)
+> internal legit cheat for cs:go
 
 ## "soma projects" community servers
 
